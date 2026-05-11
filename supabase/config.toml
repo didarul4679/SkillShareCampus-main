@@ -1,0 +1,4 @@
+project_id = "vryacxigxopdxxgrhfkp"
+
+[functions.sslcommerz-payment]
+verify_jwt = false
